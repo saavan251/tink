@@ -1,4 +1,4 @@
-# Tink
+# Vishal-Tink
 
 *A multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.*
 
